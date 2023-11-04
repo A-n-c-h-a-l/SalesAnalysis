@@ -5,6 +5,7 @@ import numpy
 import pandas as pd
 import uuid
 
+
 products = {
   'iPhone': [700, 10],
   'Google Phone': [600, 8],
